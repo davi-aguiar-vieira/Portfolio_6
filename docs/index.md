@@ -94,6 +94,7 @@ plt.legend()
 plt.show()
 ```
 ![Aprendizado Não Supervisionado](nao_supervisionado.png)
+
 **Explicação:**
 1. Geramos dados distribuídos em três grupos distintos.
 2. Aplicamos o **K-Means** para encontrar três clusters nos dados.
